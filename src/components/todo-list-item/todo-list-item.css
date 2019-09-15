@@ -1,0 +1,21 @@
+.todo-list-item {
+  user-select: none;
+}
+
+.todo-list-item span {
+  cursor: pointer;
+}
+
+.important {
+  color: #28a745;
+  font-weight: bold;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.todo-list-item button {
+  width: 35px;
+  margin: 0 0 0 6px;
+}

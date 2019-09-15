@@ -1,0 +1,11 @@
+.todo-add {
+  margin-top: 10px;
+}
+
+.todo-add input {
+  margin-right: 10px;
+}
+
+.todo-add .btn {
+  flex-shrink: 0;
+}

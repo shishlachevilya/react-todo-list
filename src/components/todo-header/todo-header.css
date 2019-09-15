@@ -1,0 +1,14 @@
+.todo-header {
+  display: flex;
+  align-items: flex-end;
+}
+
+h2 {
+  flex-grow: 1;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1em;
+}
+

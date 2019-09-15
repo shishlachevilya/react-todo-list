@@ -1,0 +1,9 @@
+.todo-app {
+  margin: 100px auto 0;
+  max-width: 500px;
+}
+
+.todo-line {
+  display: flex;
+  margin-bottom: 10px;
+}
